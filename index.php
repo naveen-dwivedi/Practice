@@ -7,3 +7,6 @@ function test(){
     $surname = 'dwivedi';
     echo "test";
 }
+function feature_b(){
+    echo "added feature b";
+}
