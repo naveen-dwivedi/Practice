@@ -5,4 +5,6 @@ $y=3;
 $z=$x+$y;
 $name = 'naveen';
 echo $z;
-
+function test(){
+    echo "test";
+}
